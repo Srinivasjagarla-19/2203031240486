@@ -6,6 +6,7 @@ A robust, production-ready URL shortener microservice with analytics, built usin
 ---
 
 ![image](https://github.com/user-attachments/assets/30998417-7487-4a96-b89d-bb17bcfa7aed)
+![image](https://github.com/user-attachments/assets/f428fefd-5e57-4cc4-bba2-8304229bd9ed)
 
 
 ## Features
@@ -15,6 +16,9 @@ A robust, production-ready URL shortener microservice with analytics, built usin
 - No login required; public API
 - Responsive, modern UI (React + Material UI)
 - Robust backend with custom logging middleware (no console.log)
+
+![image](https://github.com/user-attachments/assets/3ecc2514-8c5f-4535-9157-96ecdfe78d52)
+![image](https://github.com/user-attachments/assets/412f3deb-48c8-4dab-89b8-372826dd4c55)
 
 ---
 
