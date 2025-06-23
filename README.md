@@ -5,6 +5,9 @@ A robust, production-ready URL shortener microservice with analytics, built usin
 
 ---
 
+![image](https://github.com/user-attachments/assets/30998417-7487-4a96-b89d-bb17bcfa7aed)
+
+
 ## Features
 - Shorten long URLs with optional custom shortcodes
 - Set expiry (in minutes) for each short link (defaults to 30 minutes)
